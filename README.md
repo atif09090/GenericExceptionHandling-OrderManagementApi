@@ -1,4 +1,4 @@
-# GenericExceptionHandling-OrderManagementApi
+# 🧾 GenericExceptionHandling-OrderManagementApi
 
 A lightweight ASP.NET Core 8 Web API demonstrating **robust exception handling** using:
 
